@@ -3326,7 +3326,7 @@ body[class*="blog_style_masonry"] .post_layout_excerpt {
 	padding-top: 2em;
 	position:relative;
 }
-.nav-links-more a:before {
+/* .nav-links-more a:before {
 	content: '\e929';
 	font-family:'fontello';
 	font-size:1.6em;
@@ -3340,7 +3340,7 @@ body[class*="blog_style_masonry"] .post_layout_excerpt {
 	width:1em;
 	height: 1em;
 	line-height:1em;
-}
+} */
 .nav-links-more a:hover {
 	-webkit-animation: squat 0.5s 1 cubic-bezier(0.2, -0.8, 0.6, -1.2);
 	    -ms-animation: squat 0.5s 1 cubic-bezier(0.2, -0.8, 0.6, -1.2);
