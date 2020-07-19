@@ -561,7 +561,7 @@
   .single .post-content p,
   .post-content ul,
   .post-content
-  ol{margin-bottom:1.3em}.post-content ul li,
+  ol{margin-bottom:10px}.post-content ul li,
   .post-content ol
   li{margin-bottom:0.3em}.post-content ul ul,
   .post-content ul ol,
